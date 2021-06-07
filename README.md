@@ -1,2 +1,1 @@
-# react-basic
-Created with CodeSandbox
+# udemy「モダンJavaSciptの基礎から始める挫折しないためのReact入門」
