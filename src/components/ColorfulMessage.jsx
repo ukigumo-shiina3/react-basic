@@ -7,7 +7,7 @@ const ColorfulMessage = (props) => {
     fontSize: "18px"
   };
 
-  return <p style={contentStyle}>{children}お元気ですか？</p>;
+  return <p style={contentStyle}>{children}</p>;
 };
 
 export default ColorfulMessage;
